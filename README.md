@@ -1,3 +1,5 @@
+![promo image](https://nsabater.com/wp-content/uploads/2020/03/mixamo_script_promo.png)
+
 # MixamoToUnrealConverter
 3Ds Max script to convert Mixamo skeleton hierarchy to Unreal Engine 4 one
 
@@ -38,3 +40,12 @@ Choose the script file you downloaded from this repository.
 
 ### 4 - Export the new skeleton to .FBX
 Now you can follow the retargetting proccess described in Unreal Engine guides easily.
+
+
+## Don't forget
+
+If you liked the script, to use it or as example, don't forget to give some support in the UE4 forums   
+https://forums.unrealengine.com/community/community-content-tools-and-tutorials/1739099-mixamo-to-unreal-engine-converter-free
+  
+And in youtube  
+http://www.youtube.com/c/NestorSabater  
