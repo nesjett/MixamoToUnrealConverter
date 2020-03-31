@@ -1,7 +1,7 @@
 # MixamoToUnrealConverter
 3Ds Max script to convert Mixamo skeleton hierarchy to Unreal Engine 4 one
 
-/*//////////////////////////////////////
+
 	Script developed by Nestor Sabater  
 	Portfolio: https://nsabater.com  
 	Email: contact@nsabater.com  
@@ -12,7 +12,6 @@
 	Creative Commons: Attribution-NonCommercial-ShareAlike  
 	CC BY-NC-SA  
   
-//////////////////////////////////////*/
 
 
 
